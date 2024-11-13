@@ -6,7 +6,7 @@ class {
 
 	System.out.println("Rakesh");
 	System.out.println("Rakshith");
-
+	int y=5;
 	int l=50;
 	int m=100;
 	System.out.println("rakshith");
