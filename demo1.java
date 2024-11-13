@@ -3,7 +3,7 @@ class {
         int i=10;
 	int j=20;
 	int k=30;
-
+        int zzzzzz=80;
 	System.out.println("Rakesh");
 	System.out.println("Rakshith");
 
